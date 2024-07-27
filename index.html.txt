@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Tervetuloa Widemountainiin! Avataan pian!</h1>
+<p>www.widemountain.fi</p>
+</body>
+</html>
+
