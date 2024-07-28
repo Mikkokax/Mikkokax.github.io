@@ -961,7 +961,7 @@
 .u-section-6 .u-form-1 {
   height: 311px;
   width: 678px;
-  margin: 74px auto 60px;
+  margin: 74px auto 0;
 }
 
 .u-section-6 .u-form-group-1 {
@@ -1020,6 +1020,10 @@
   text-transform: uppercase;
   font-weight: 600;
   padding: 20px 0 21px;
+}
+
+.u-section-6 .u-text-2 {
+  margin: 30px auto 60px;
 }
 
 @media (max-width: 767px) {
